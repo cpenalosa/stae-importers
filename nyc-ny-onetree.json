@@ -1,1 +1,12 @@
-[{"id":"420781","curb":true,"status":"dead","lat":-74.07925834,"lng":40.62376278,"treescount staff","sidewalk":false,"recordedAt":"2015-11-03T00:00:00.000Z","stumpDiameter":0,"breastDiameter":2.54},
+{
+"id":"420781",
+"curb":true,
+"status":"dead",
+"lat":-74.07925834,
+"lng"40.62376278:,
+"recorder":"treescount staff",
+"sidewalk":false,
+"recordedAt":"2015-11-03T00:00:00.000Z",
+"stumpDiameter":0,
+"breastDiameter":2.54
+}
